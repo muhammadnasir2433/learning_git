@@ -4,3 +4,5 @@ hello, ubuntu!
 I'm learning 
 
 I'm getting better at linux.
+
+it's very easy  to learn git and github

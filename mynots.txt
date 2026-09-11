@@ -6,7 +6,3 @@ I'm learning
 I'm getting better at linux.
 
 it's very easy  to learn git and github
-
-it's just for practic revert command in git 
-
-let's see how it works

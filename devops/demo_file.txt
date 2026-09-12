@@ -1,0 +1,3 @@
+hi this is a demo file for testing reset command.
+
+let's see how it works
